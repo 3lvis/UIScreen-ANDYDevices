@@ -5,8 +5,10 @@
 //  Copyright (c) 2014 Elvis Nuñez. All rights reserved.
 //
 
-@interface UIScreen (ANDYResolutions)
+@interface UIScreen (ANDYDevices)
+
 + (BOOL)andy_isPhone;
 + (BOOL)andy_isPad;
 + (BOOL)andy_isSmallScreen;
+
 @end

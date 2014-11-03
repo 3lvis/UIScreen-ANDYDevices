@@ -1,7 +1,7 @@
-UIScreen-ANDYResolutions
-========================
+UIScreen-ANDYDevices
+====================
 
-Tiny category to handle screen resolutions.
+Tiny category to handle devices.
 
 # Available categories
 ```objc
